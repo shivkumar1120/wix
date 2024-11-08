@@ -1,0 +1,48 @@
+.bg-blue{
+    background: #384eb7;
+}
+.btn-black{
+    background: black;
+    color: #fff;
+}
+
+.purpul{
+	background-color: #e2d8ff;
+}
+
+.light-yellow{
+	background-color: #f3efe5;
+}
+
+.pink{
+	background-color: #a785d5;
+}
+.myvideo {
+    padding: 110px;
+    background: url(../images/video-cover.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 115px; 
+}
+.myvideo video{width: 100%;
+	border-radius: 20px;
+
+}
+#accordion .card-header {
+    background: #fff;
+    border-radius: 0;
+    padding: 20px;
+    border-bottom: 0;
+}
+
+#accordion .card-header a {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#accordion .card-body {
+    font-size: 20px;
+    font-weight: 400;
+    padding: 20px;
+}
